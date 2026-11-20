@@ -35,12 +35,12 @@ I'm 14, based in Feltre (Italy). I build web applications, AI tools and automati
 ## Shipped — live sites, not mockups
 
 <p align="center">
-  <a href="https://websitebuilder-pro.vercel.app/"><img src="./assets/atelier.webp" width="49%" alt="Atelier — AI website builder"></a>
-  <a href="https://axsends.vercel.app"><img src="./assets/axsends.webp" width="49%" alt="AhsenDS — dropshipping automation"></a>
+  <a href="https://websitebuilder-pro.vercel.app/"><img src="./assets/atelier-card.webp" width="49%" alt="Atelier — AI website builder"></a>
+  <a href="https://axsends.vercel.app"><img src="./assets/axsends-card.webp" width="49%" alt="AhsenDS — dropshipping automation"></a>
 </p>
 <p align="center">
-  <a href="https://ahsenkurtoski.github.io/ahsen-studio-site/"><img src="./assets/segretaria-ahsen.webp" width="49%" alt="Segretaria Ahsen — WhatsApp assistant"></a>
-  <a href="https://locandadelre.netlify.app/"><img src="./assets/locanda-del-re.webp" width="49%" alt="Locanda del Re — restaurant and hotel site"></a>
+  <a href="https://ahsenkurtoski.github.io/ahsen-studio-site/"><img src="./assets/segretaria-ahsen-card.webp" width="49%" alt="Segretaria Ahsen — WhatsApp assistant"></a>
+  <a href="https://locandadelre.netlify.app/"><img src="./assets/locanda-del-re-card.webp" width="49%" alt="Locanda del Re — restaurant and hotel site"></a>
 </p>
 
 <p align="center"><sub>Atelier · AhsenDS · Segretaria Ahsen · Locanda del Re — screenshots from the live sites</sub></p>
