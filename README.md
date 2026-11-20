@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.webp" alt="Ahsen Kurtoski — student developer, Feltre, Italy. I build software that works." width="100%">
+  <img src="./assets/hero-v2.webp" alt="Ahsen Kurtoski — student developer, Feltre, Italy. I build software that works." width="100%">
 </p>
 
 <p align="center">
