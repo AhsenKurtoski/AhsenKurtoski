@@ -1,29 +1,32 @@
 <p align="center">
-  <img src="./assets/hero-v2.webp" alt="Ahsen Kurtoski — student developer in Feltre, Italy. I build software that works." width="100%">
+  <img src="./assets/hero-v3.webp" alt="Ahsen Kurtoski — product direction, design and QA, Feltre, Italy" width="100%">
 </p>
 
 <p align="center">
-  <b>Student developer · Feltre, Italy</b> 🇮🇹 🇲🇰<br>
-  I design, build, test and document web apps, AI tools and automation that run on your own machine.
+  <b>Product direction · interface design · quality control</b><br>
+  I decide what gets built, how it should look and when it is done. The code is written with AI to my specification.
 </p>
 
 <p align="center">
-  <a href="https://ahsen-studio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ahsen--studio.netlify.app-7c3aed?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ahsen-kurtoski/"><img src="https://img.shields.io/badge/LinkedIn-Ahsen%20Kurtoski-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:cshop0784@gmail.com"><img src="https://img.shields.io/badge/Email-cshop0784%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://ahsen-studio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ahsen-kurtoski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:cshop0784@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-Sono **Ahsen**, 14 anni, Feltre. Costruisco software che funziona: lo progetto, lo scrivo, lo provo su dispositivi veri e lo documento.
+Sono **Ahsen**, da Feltre. Non scrivo il codice riga per riga: decido cosa costruire, progetto l'interfaccia, scrivo le specifiche e verifico il risultato.
 
-I'm 14, based in Feltre (Italy). I build software that a real business can run — self-hosted, documented, and tested on real devices. AI is my assistant for research, review and repetitive work; the architecture, the decisions and the final check are mine.
+I'm 14 and based in Feltre, Italy. I'm not the person typing every line — I run the product. I decide what gets built, design the interface, write the specification and test the result. The implementation is written with AI against that specification, and nothing ships until it behaves.
 
-**Three of those products are working today.** The GIFs below are recordings of the real apps, made on 21 November 2026 — not mockups.
+**What that means on every project here:**
 
-<p align="center">
-  <b>3 products working today</b> · 5 more live or open source · MIT where it matters · 7 interface languages · €0 in subscriptions
-</p>
+- **Product** — the scope, the priorities, and what stays out.
+- **Design** — screens, states, typography, colour, and the words on them.
+- **Specification** — flows, data, edge cases and acceptance criteria, written before anything is built.
+- **Quality** — real devices, empty and error states, keyboard navigation, contrast. I break it before a customer does.
+
+**Three of these products are working today.** The GIFs below are recordings of the real apps, made on 21 November 2026 — not mockups.
 
 ---
 
@@ -35,8 +38,8 @@ I'm 14, based in Feltre (Italy). I build software that a real business can run �
   <img src="./assets/demo-whatsapp-secretary.gif" alt="The real dashboard: leads, PDF quotes, the approval queue and per-customer conversations" width="100%">
 </p>
 
-- **Approval-gated by design.** The model can only *request* an email, an event or a quote PDF. It has no Gmail or Calendar tool: the dashboard executes the action after you click.
-- **Real business data, real numbers.** Services, prices, hours and tone live in one config file. Quotes recalculate subtotal, discount, VAT and total on the server — the model cannot invent a price.
+- **Approval-gated by design.** The assistant can only *request* an email, an event or a quote PDF. It has no Gmail or Calendar tool: the dashboard executes the action after you click.
+- **Real business data, real numbers.** Services, prices, hours and tone live in one config file. Quotes recalculate subtotal, discount, VAT and total on the server — the assistant cannot invent a price.
 - **Built for operations.** Encrypted per-customer memory (AES-256-GCM), tamper-evident audit log, TOTP and revocable sessions, encrypted backups, watchdog and WhatsApp health alerts.
 - **Try it in 60 seconds.** `python3 demo.py` opens the real dashboard with demo leads and a generated PDF quote. No keys, no WhatsApp account, nothing sent.
 
@@ -79,42 +82,29 @@ I'm 14, based in Feltre (Italy). I build software that a real business can run �
 
 ## Also shipped
 
-| Project | What it is | |
-|---|---|---|
-| **[Atelier](https://websitebuilder-pro.vercel.app/)** | AI website builder: describe a business, get a complete static site with pages, copy, palette, SEO and legal pages, then edit it visually and export. The deterministic composer works with no API key and no account. | [Live](https://websitebuilder-pro.vercel.app/) |
-| **[Atlas AI](https://github.com/AhsenKurtoski/atlas-ai)** | Multi-user assistant: FastAPI backend, React Native/Expo client, Gemini tool calling, MCP servers, and a browser agent where every outbound request is checked for SSRF and DNS tricks. | [Code](https://github.com/AhsenKurtoski/atlas-ai) |
-| **[UnionTV OS Experience](https://github.com/AhsenKurtoski/UnionTV-OS-Experience)** | Native Android TV launcher written for a 1.4 GB TCL box (Android 9, ARMv7, 720p) that modern launchers give up on. Java, signed releases. | [Code](https://github.com/AhsenKurtoski/UnionTV-OS-Experience) |
-| **[Prenota Diretto](https://github.com/AhsenKurtoski/prenota-diretto)** | Direct-booking kit for agriturismi and B&Bs: booking page, emails, WhatsApp messages, Google profile checklist. One payment, no subscription. | [Code](https://github.com/AhsenKurtoski/prenota-diretto) |
-| **[Locanda del Re](https://locandadelre.netlify.app/)** | Restaurant and rooms site, live with real content: menu, gallery, booking requests, bilingual. | [Live](https://locandadelre.netlify.app/) |
+- **[Atelier](https://websitebuilder-pro.vercel.app/)** — AI website builder: describe a business, get a complete static site with pages, copy, palette, SEO and legal pages, then edit it visually and export. The composer works with no API key and no account. — [Live](https://websitebuilder-pro.vercel.app/)
+- **[Atlas AI](https://github.com/AhsenKurtoski/atlas-ai)** — multi-user assistant: FastAPI backend, React Native client, Gemini tool calling, MCP servers, and a browser agent where every outbound request is checked for SSRF and DNS tricks. — [Code](https://github.com/AhsenKurtoski/atlas-ai)
+- **[UnionTV OS Experience](https://github.com/AhsenKurtoski/UnionTV-OS-Experience)** — native Android TV launcher for a 1.4 GB TCL box that modern launchers give up on. Java, signed releases. — [Code](https://github.com/AhsenKurtoski/UnionTV-OS-Experience)
+- **[Locanda del Re](https://locandadelre.netlify.app/)** — restaurant and rooms site, live with real content: menu, gallery, booking requests, bilingual. — [Live](https://locandadelre.netlify.app/)
 
 ---
 
-## How I build
+## How a project runs
 
-1. **Understand the problem before the code.** Who uses it, what breaks today, what the smallest useful version is.
-2. **Decide, then write.** Data model and interfaces sketched before the first component — the reason Lead Machine's API has scopes that are actually enforced, not labels.
-3. **Test on real devices, not just my laptop.** Mobile widths, slow connections, keyboard navigation, empty and error states.
-4. **Ship it and write it down.** README someone can follow, screenshots from the running app, limitations stated instead of hidden.
+1. **The problem.** Who has it, what breaks today, what the smallest useful version is.
+2. **The plan.** Scope, screens, data model, edge cases, acceptance criteria — written down before anything is built.
+3. **The design.** Layout, type, colour, states and copy. I choose and review every screen.
+4. **The build.** AI writes the code against that specification; I test on real devices and send it back until it matches.
+5. **The check.** Empty and error states, keyboard navigation, contrast, slow connections. Nothing is "done" because it compiles.
 
 ---
 
 ## Stack
 
-| Area | Tools |
-|---|---|
-| Frontend | React, Next.js, TypeScript, Tailwind, HTML/CSS |
-| Backend & data | Node.js, Python, FastAPI, Prisma, SQLite, Supabase |
-| AI | Gemini, Groq, OpenRouter, function calling, MCP |
-| Infra & quality | Docker, GitHub Actions, Playwright, Linux, Netlify, Vercel |
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-</p>
+- **Frontend** — React, Next.js, TypeScript, Tailwind, HTML/CSS
+- **Backend & data** — Node.js, Python, FastAPI, Prisma, SQLite, Supabase
+- **AI** — Gemini, Groq, OpenRouter, function calling, MCP
+- **Infra & quality** — Docker, GitHub Actions, Playwright, Linux, Netlify, Vercel
 
 ---
 
@@ -132,4 +122,4 @@ Open to collaborations, open-source contributions and pilots with organisations.
 
 **Email:** cshop0784@gmail.com · **Portfolio:** https://ahsen-studio.netlify.app/ · **Languages:** Italian · English · Macedonian
 
-> I'm 14 and I learn in public. Everything here is built by me, with AI as an assistant — the decisions and the final check are mine.
+> I direct every product here: the plan, the design and the final check are mine. AI writes the code; I decide what it has to do.
