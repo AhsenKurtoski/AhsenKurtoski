@@ -21,10 +21,9 @@ I'm 14, based in Feltre (Italy). I build software that a real business can run �
 
 **Three of those products are working today.** The GIFs below are recordings of the real apps, made on 21 November 2026 — not mockups.
 
-| | |
-|:--|:--|
-| **3 products** you can open or clone right now | **5 more** live sites and open-source projects |
-| **€0** in subscriptions: MIT where it matters | **7 languages** in Lead Machine's interface |
+<p align="center">
+  <b>3 products working today</b> · 5 more live or open source · MIT where it matters · 7 interface languages · €0 in subscriptions
+</p>
 
 ---
 
