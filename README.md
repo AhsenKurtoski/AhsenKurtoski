@@ -43,7 +43,7 @@ I'm 14 and based in Feltre, Italy. I build the products on this page: I decide t
 - **Built for operations.** Encrypted per-customer memory (AES-256-GCM), tamper-evident audit log, TOTP and revocable sessions, encrypted backups, watchdog and WhatsApp health alerts.
 - **Try it in 60 seconds.** `python3 demo.py` opens the real dashboard with demo leads and a generated PDF quote. No keys, no WhatsApp account, nothing sent.
 
-<sub>`Python 3.11–3.14` · `MIT` · `self-hosted` · `systemd / Docker` — **[Case study](projects/whatsapp-digital-secretary.md)** · **[Code](https://github.com/AhsenKurtoski/whatsapp-digital-secretary)** · **[Landing](https://gina-secretary.vercel.app)**</sub>
+<sub>`Python 3.11–3.14` · `MIT` · `self-hosted` · `systemd` — **[Case study](projects/whatsapp-digital-secretary.md)** · **[Code](https://github.com/AhsenKurtoski/whatsapp-digital-secretary)** · **[Landing](https://gina-secretary.vercel.app)**</sub>
 
 ---
 
