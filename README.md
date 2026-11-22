@@ -24,7 +24,6 @@ I'm 14 and based in Feltre, Italy. I build the products on this page: I decide t
 - **Product** — the scope, the priorities, and what stays out.
 - **Design** — screens, states, typography, colour, and the words on them.
 - **Specification** — flows, data, edge cases and acceptance criteria, written before anything is built.
-- **Review** — every change read against the spec, and refused when it does not match.
 - **Quality** — real devices, empty and error states, keyboard navigation, contrast. I break it before a customer does.
 
 **Three of these products are working today.** The GIFs below are recordings of the real apps, made on 21 November 2026 — not mockups. Each one has a case study: the problem, the decisions, the architecture, what the tests cover and what they do not.
@@ -95,7 +94,7 @@ I'm 14 and based in Feltre, Italy. I build the products on this page: I decide t
 1. **The problem.** Who has it, what breaks today, what the smallest useful version is.
 2. **The plan.** Scope, screens, data model, edge cases, acceptance criteria — written down before anything is built.
 3. **The design.** Layout, type, colour, states and copy. I choose and review every screen.
-4. **The build.** Implementation happens in short cycles against that specification; I review each change, run the checks and send it back until it matches.
+4. **The build.** Small increments, one flow at a time, each with its own acceptance criteria — a quote from request to PDF, a lead from search to a verified phone number.
 5. **The check.** Empty and error states, keyboard navigation, contrast, slow connections. Nothing is "done" because it compiles.
 
 ---
