@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Product direction · interface design · quality control</b><br>
-  I decide what gets built, how it should look and when it is done. The code is written with AI to my specification.
+  I decide what gets built, how it should look, and when it is done.
 </p>
 
 <p align="center">
@@ -15,18 +15,19 @@
 
 ---
 
-Sono **Ahsen**, da Feltre. Non scrivo il codice riga per riga: decido cosa costruire, progetto l'interfaccia, scrivo le specifiche e verifico il risultato.
+Sono **Ahsen**, da Feltre. Costruisco i prodotti che vedi qui: decido cosa entra nello scope, progetto l'interfaccia, scrivo le specifiche e faccio io l'ultima verifica. L'implementazione è assistita dall'AI contro quelle specifiche, ma ogni modifica passa dalla mia revisione e dai test del progetto prima di arrivare a una release.
 
-I'm 14 and based in Feltre, Italy. I'm not the person typing every line — I run the product. I decide what gets built, design the interface, write the specification and test the result. The implementation is written with AI against that specification, and nothing ships until it behaves.
+I'm 14 and based in Feltre, Italy. I build the products on this page: I decide the scope, design the interface, write the specification and run the final check. Implementation is AI-assisted against that specification — but every change goes through my review and the project's tests before it reaches a release.
 
 **What that means on every project here:**
 
 - **Product** — the scope, the priorities, and what stays out.
 - **Design** — screens, states, typography, colour, and the words on them.
 - **Specification** — flows, data, edge cases and acceptance criteria, written before anything is built.
+- **Review** — every change read against the spec, and refused when it does not match.
 - **Quality** — real devices, empty and error states, keyboard navigation, contrast. I break it before a customer does.
 
-**Three of these products are working today.** The GIFs below are recordings of the real apps, made on 21 November 2026 — not mockups.
+**Three of these products are working today.** The GIFs below are recordings of the real apps, made on 21 November 2026 — not mockups. Each one has a case study: the problem, the decisions, the architecture, what the tests cover and what they do not.
 
 ---
 
@@ -43,7 +44,7 @@ I'm 14 and based in Feltre, Italy. I'm not the person typing every line — I ru
 - **Built for operations.** Encrypted per-customer memory (AES-256-GCM), tamper-evident audit log, TOTP and revocable sessions, encrypted backups, watchdog and WhatsApp health alerts.
 - **Try it in 60 seconds.** `python3 demo.py` opens the real dashboard with demo leads and a generated PDF quote. No keys, no WhatsApp account, nothing sent.
 
-<sub>`Python 3.11–3.14` · `MIT` · `self-hosted` · `systemd / Docker` — **[Code](https://github.com/AhsenKurtoski/whatsapp-digital-secretary)** · **[Landing](https://gina-secretary.vercel.app)**</sub>
+<sub>`Python 3.11–3.14` · `MIT` · `self-hosted` · `systemd / Docker` — **[Case study](projects/whatsapp-digital-secretary.md)** · **[Code](https://github.com/AhsenKurtoski/whatsapp-digital-secretary)** · **[Landing](https://gina-secretary.vercel.app)**</sub>
 
 ---
 
@@ -60,7 +61,7 @@ I'm 14 and based in Feltre, Italy. I'm not the person typing every line — I ru
 - **The whole loop.** CRM timeline, WhatsApp/email/call actions, follow-up buckets, payment receipts, reports, and a scoped public API with hashed `lm_live_…` keys.
 - **Yours.** One SQLite file, 7 interface languages, optional AI with Gemini/Groq failover, no paid tier.
 
-<sub>`Next.js 15` · `TypeScript` · `Prisma + SQLite` · `MIT` — **[Code](https://github.com/AhsenKurtoski/lead-machine)** · **[API docs](https://github.com/AhsenKurtoski/lead-machine/blob/main/API.md)**</sub>
+<sub>`Next.js 15` · `TypeScript` · `Prisma + SQLite` · `MIT` — **[Case study](projects/lead-machine.md)** · **[Code](https://github.com/AhsenKurtoski/lead-machine)** · **[API docs](https://github.com/AhsenKurtoski/lead-machine/blob/main/API.md)**</sub>
 
 ---
 
@@ -76,7 +77,7 @@ I'm 14 and based in Feltre, Italy. I'm not the person typing every line — I ru
 - **Margins in view.** Orders, suppliers, pricing rules, monitoring and diagnostics in one dashboard, with your own keys and your own Supabase project.
 - **No fake state.** Without Supabase the interface says so and opens without inventing data.
 
-<sub>`Next.js 14` · `TypeScript` · `Tailwind` · `Supabase` · `MIT` — **[Code](https://github.com/AhsenKurtoski/axsends)** · **[Live](https://axsends.vercel.app)**</sub>
+<sub>`Next.js 14` · `TypeScript` · `Tailwind` · `Supabase` · `MIT` — **[Case study](projects/ahsend.md)** · **[Code](https://github.com/AhsenKurtoski/axsends)** · **[Live](https://axsends.vercel.app)**</sub>
 
 ---
 
@@ -94,7 +95,7 @@ I'm 14 and based in Feltre, Italy. I'm not the person typing every line — I ru
 1. **The problem.** Who has it, what breaks today, what the smallest useful version is.
 2. **The plan.** Scope, screens, data model, edge cases, acceptance criteria — written down before anything is built.
 3. **The design.** Layout, type, colour, states and copy. I choose and review every screen.
-4. **The build.** AI writes the code against that specification; I test on real devices and send it back until it matches.
+4. **The build.** Implementation happens in short cycles against that specification; I review each change, run the checks and send it back until it matches.
 5. **The check.** Empty and error states, keyboard navigation, contrast, slow connections. Nothing is "done" because it compiles.
 
 ---
@@ -121,5 +122,3 @@ I'm 14 and based in Feltre, Italy. I'm not the person typing every line — I ru
 Open to collaborations, open-source contributions and pilots with organisations.
 
 **Email:** cshop0784@gmail.com · **Portfolio:** https://ahsen-studio.netlify.app/ · **Languages:** Italian · English · Macedonian
-
-> I direct every product here: the plan, the design and the final check are mine. AI writes the code; I decide what it has to do.
