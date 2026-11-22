@@ -15,9 +15,9 @@
 
 ---
 
-Sono **Ahsen**, da Feltre. Costruisco i prodotti che vedi qui: decido cosa entra nello scope, progetto l'interfaccia, scrivo le specifiche e faccio io l'ultima verifica. L'implementazione è assistita dall'AI contro quelle specifiche, ma ogni modifica passa dalla mia revisione e dai test del progetto prima di arrivare a una release.
+Sono **Ahsen**, da Feltre. Costruisco i prodotti che vedi qui: decido cosa entra nello scope, progetto l'interfaccia, scrivo le specifiche, leggo ogni modifica contro quelle specifiche, eseguo la matrice di test del progetto e decido io quando una release è pubblicabile. L'implementazione è assistita dall'AI: la revisione, i test e la decisione su cosa pubblicare sono miei.
 
-I'm 14 and based in Feltre, Italy. I build the products on this page: I decide the scope, design the interface, write the specification and run the final check. Implementation is AI-assisted against that specification — but every change goes through my review and the project's tests before it reaches a release.
+I'm 14 and based in Feltre, Italy. I build the products on this page: I decide the scope, design the interface, write the specification, read every change against it, run the project's test matrix and decide when a release is ready. Implementation is AI-assisted: the review, the tests and the call on what ships are mine.
 
 **What that means on every project here:**
 

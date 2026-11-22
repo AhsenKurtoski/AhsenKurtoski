@@ -10,8 +10,6 @@
 
 <sub>Recorded from the running application, 21 November 2026. Not a mockup.</sub>
 
-*My part: the problem, the scope, the interface, the specification and the release checks. Implementation is AI-assisted against that specification; every change is reviewed and tested before it ships.*
-
 ---
 
 ## 1. The problem
